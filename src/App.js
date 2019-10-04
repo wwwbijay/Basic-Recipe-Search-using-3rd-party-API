@@ -8,11 +8,12 @@ const App = () => {
 
 
   useEffect(() => {
-    getRecipes();
+    let query = 'Chicken';
+    getRecipes(query);
   }, []);
 
-  const getRecipes = async () => {
-    const response = await fetch('https://api.edamam.com/search?q=chicken&app_id=${APP_ID}&app_key=${APP_KEY}');
+  const getRecipes = async (query) => {
+    const response = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
     const data = await response.json();
     console.log(data);
   }
@@ -32,7 +33,7 @@ const App = () => {
       <div className="app_listings">
 
       </div>
-    </div >
+    </div>
   );
 }
 
