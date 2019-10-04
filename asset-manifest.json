@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Basic-Recipe-Search-using-3rd-party-API/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/Basic-Recipe-Search-using-3rd-party-API/static/js/main.7b8be73c.chunk.js",
+    "main.js.map": "/Basic-Recipe-Search-using-3rd-party-API/static/js/main.7b8be73c.chunk.js.map",
+    "runtime-main.js": "/Basic-Recipe-Search-using-3rd-party-API/static/js/runtime-main.91fd0733.js",
+    "runtime-main.js.map": "/Basic-Recipe-Search-using-3rd-party-API/static/js/runtime-main.91fd0733.js.map",
+    "static/js/2.14f00c49.chunk.js": "/Basic-Recipe-Search-using-3rd-party-API/static/js/2.14f00c49.chunk.js",
+    "static/js/2.14f00c49.chunk.js.map": "/Basic-Recipe-Search-using-3rd-party-API/static/js/2.14f00c49.chunk.js.map",
+    "index.html": "/Basic-Recipe-Search-using-3rd-party-API/index.html",
+    "precache-manifest.977dcfb00d24c09f4bb4a38ec1bf21d4.js": "/Basic-Recipe-Search-using-3rd-party-API/precache-manifest.977dcfb00d24c09f4bb4a38ec1bf21d4.js",
+    "service-worker.js": "/Basic-Recipe-Search-using-3rd-party-API/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/Basic-Recipe-Search-using-3rd-party-API/static/css/main.5e4e9510.chunk.css.map"
+  }
+}
